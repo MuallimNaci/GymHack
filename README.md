@@ -1,2 +1,2 @@
 # GymHack
-![Clone](https://github.com/MuallimNaci/Api-Practice/blob/main/resimler/video.gif)
+![Clone](https://github.com/MuallimNaci/GymHack/blob/main/resimler/video.gif)
